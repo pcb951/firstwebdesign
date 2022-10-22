@@ -1,0 +1,89 @@
+
+.body {
+    margin: 0;
+    text-align: center;
+}
+
+.upper-div{
+    background-color: aquamarine;
+    position: relative;
+    padding-top: 150px;
+}
+
+hr{
+    margin: 0;
+}
+
+.name {
+    font-size: 2rem;
+    margin: 0;
+}
+
+
+
+.image-div {
+    margin-top: 60px;
+}
+
+.upper-cloud {
+    position: absolute;
+    margin-left: 300px;
+    top: 30px;
+
+}
+.lower-cloud {
+    position: absolute;
+    left: 300px;
+    border-top: 600px;
+}
+
+.profile-pic {
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    margin-top: 50px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.computer {
+    height: 25%;
+    width: 25%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 3%;
+}
+
+.chilli {
+    height: 25%;
+    width: 25%;
+    border-radius: 100%;
+    float: right;
+    margin-left: 3%;
+}
+
+
+
+
+
+.facebook-logo {
+    height: 30px;
+    width: 30px;
+}
+
+.instagram-logo {
+    height: 30px;
+    width: 30px;
+
+}
+
+.linkdin-logo {
+    height: 30px;
+    width: 30px;
+
+}
